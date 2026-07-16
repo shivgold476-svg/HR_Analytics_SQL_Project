@@ -14,4 +14,20 @@ HAVING
 CTE 
 Windows Function 
 
+## Analysis Performed 
+.Department - wise employee count 
+.Average Salary by Department 
+.Highest Salary Per Department 
+.Second Highest salary analysis 
+.Salary ranking using : 
+  -ROW_NUMBER()
+  -RANK() 
+  -DENSE_RANK()
+.Previous and next salary comparison using:
+    -LAG() 
+    -LEAD() 
+.Department highest salary comparison using:
+   -FIRST_VALUE()
+   -LAST_VALUE(0
+
 
